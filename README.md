@@ -11,9 +11,19 @@ _A project to introduce the C# language and the .NET Core framework. Create a Sc
 
 ### Specs
 
+An application that takes a word and returns the Scrabble score for that word. 
+
 | Behavior | Input | Output |  Completed(Y/N?)  |
 | -------- | ----- | ------ | -------- |
-| 
+|  Console Input/Test        |  A, E, I, O, U, L, N, R, S, T  |      1   |       N   |
+|  Console Input/Test        |  D, G  |      2   |       N   |
+|  Console Input/Test        |  B, C, M, P   |      3   |       N   |
+|  Console Input/Test        |  F, H, V, W, Y       |      4   |       N   |
+|  Console Input/Test        |  K  |      5  |       N   |
+|  Console Input/Test        |  J, X  |      8  |       N   |
+|  Console Input/Test   |  Q, Z  |      10  |       N   |
+|  If user enters a word, program returns a letter score  |  DOG |      5  |       N   |
+
 
 ## Setup/Installation Requirements
 
@@ -24,10 +34,9 @@ _A project to introduce the C# language and the .NET Core framework. Create a Sc
 4. Run the program with the command dotnet build.
 
 ## Known Bugs
-l
+
 There are no known bugs at the time of this update.
  
-
 ## Technologies Used
 
 * C#
