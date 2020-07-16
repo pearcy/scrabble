@@ -1,16 +1,19 @@
 
-# _To Do List_
+# _Scrabble_
 
-#### _Project July 15, 2020_
+#### _Test-Driven Development With C# Project, July 15, 2020_
 
-#### By _**Joseph Pearce**_
+#### By _**Joseph Pearce, Christine Augustine**_
 
 ## Description
 
-_A project to introduce the C# language and the .NET Core framework. Create a To Do List._
+_A project to introduce the C# language and the .NET Core framework. Create a Scrabble Tester._
 
 ### Specs
 
+| Behavior | Input | Output |  Completed(Y/N?)  |
+| -------- | ----- | ------ | -------- |
+| 
 
 ## Setup/Installation Requirements
 
@@ -21,7 +24,7 @@ _A project to introduce the C# language and the .NET Core framework. Create a To
 4. Run the program with the command dotnet build.
 
 ## Known Bugs
-
+l
 There are no known bugs at the time of this update.
  
 
@@ -36,4 +39,4 @@ There are no known bugs at the time of this update.
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2020 **_Joseph Pearce, Beverly Potts_**
+Copyright (c) 2020 **_Joseph Pearce, Christine Augustine_**
